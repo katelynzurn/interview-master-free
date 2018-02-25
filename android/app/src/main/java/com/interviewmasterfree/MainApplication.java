@@ -1,4 +1,4 @@
-package com.pepperoniapptemplate;
+package com.interviewmasterfree;
 
 import android.app.Application;
 
